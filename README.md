@@ -1,5 +1,7 @@
 # Github-Styles
 
+Color Text 
+
 ```diff
 - text in red
 + text in green
