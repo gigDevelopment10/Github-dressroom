@@ -9,3 +9,9 @@ Color Text
 # text in gray
 @@ text in purple (and bold)@@
 ```
+Table 
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
