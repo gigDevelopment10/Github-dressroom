@@ -15,3 +15,7 @@ Table
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
+
+
+Refs : 
+https://gist.github.com/rxaviers/7360908
