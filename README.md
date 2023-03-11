@@ -19,3 +19,6 @@ Table
 
 Refs : 
 https://gist.github.com/rxaviers/7360908
+
+Mermaid 
+Ref : https://mermaid.js.org/syntax/flowchart.html
